@@ -1,0 +1,10 @@
+1.  JQuery object is array-like structure where selected html items are refrenced numerically with indexes and it has properties such as length, for each, ability to bind with jquery function. 
+
+    jQuery function an action that we want to perform after a certain event handler is invoked.
+
+
+2.  $("div h1").css("background-color", "red");
+
+
+3.  $("p").append(" YES!");
+
