@@ -1,0 +1,13 @@
+1. They are all equivalent as the each() method executes 
+a function with two optional parameters. They parameters are 
+index of the element and the element itself, in this case we are 
+using the this keyword or the e parameter, which all refers to the current element. 
+
+2. $(document).ready(function(){
+  $("div").find("ul").css({"color": "blue"});
+    });
+
+
+3. $(document).ready(function(){
+    $("body").append(" <div><h1>JQuery Core</h1></div>");
+    });
