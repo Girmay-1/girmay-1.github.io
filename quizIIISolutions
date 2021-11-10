@@ -1,0 +1,25 @@
+
+
+
+1. 
+
+var par= $("p:first").text();
+$("p:last").text(par);
+
+
+2. 
+  $("ul li:nth-child(2) li").css({"background-color": "red"});
+
+
+3. 
+
+$( "li.third-item" ).prev().css( "background-color", "blue");
+
+4.  
+
+$(“.turkey).replaceWith(“<li class=potatoe><em>Mashed Potatoes</em></li>”);
+
+5.
+ $('span').parent().css({ "color": "green" });
+ 
+ $('span').parent().parent().css({"color": "green"});
