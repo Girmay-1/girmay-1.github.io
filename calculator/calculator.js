@@ -22,7 +22,7 @@ app.get('/calculator.js', function(req, res){
   }
   
   res.send("The Answer is: "+result
-  +"<br><br> <a href= 'http://127.0.0.1:5500/Lab8/calculator.html'>Another calculation</a>");
+  +"<br><br> <a href= 'https://girmay-1.github.io/calculator/index.html'>Another calculation</a>");
 })
 
 
